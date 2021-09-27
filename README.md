@@ -3,6 +3,9 @@ Here you will find a list of EntWatch and Stripper configs for use with CSGO Zom
 
 We are starting to update this more frequently to help the ZE community and future server owners.
 
+## Read This Before Adding New Strippers: 
+When it comes to using Linux, things ARE case sensitive and MUST match the map name (This is not a problem with Windows servers). As we leave map names as the mapper intended, your config files must match the name on the map list provided here: https://forums.ghostcap.com/topic/27-csgo-zombie-escape-map-list-request-maps-here/
+
 ## Software You Need: 
 Here is a list of the software that we use on our server to read these config files.
 - **Zombie Escape:** https://github.com/pedrotski/CS-GO-Zombie-Escape-Public
