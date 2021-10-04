@@ -1,3 +1,8 @@
+Please find the new repo here: https://github.com/GhostCap-Gaming/Zombie-Escape-Configs-CS-GO
+
+
+
+
 # CSGO Zombie Escape Configs/Stripper Used On GhostCap Gaming Servers
 Here you will find a list of EntWatch and Stripper configs for use with CSGO Zombie Escape servers. These are only our public configs and are not always 100% up to date with what we have on the main server.
 
